@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="aSmallRender" targetName="aSmallRender" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93c0667e-f87f-456f-a3c7-bd0df0c5985a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/3BSC~%C68Z]1K5HB8B[K%]E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/PmxConv/Main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/PmxConv/Main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/PmxConv/Main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/PmxConv/PmxConv.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/PmxConv/PmxConv.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/bq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/kiana.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/kiana.pmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/mc3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/output_file.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/trans.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/使用规则.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/头发.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Kiana/衣服.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/琪亚娜旗袍.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.4" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2eftlfa6dk2y3mgJwLBz1QCv5iM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.aSmallRender.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "//wsl$/Ubuntu/home/lingyin/once/StudyOnGpu5/aSmallRender",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.PostgreSQL, Greenplum, Redshift",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lingyin\CLionProjects\aSmallRender\Shader" />
+      <recent name="C:\Users\Lingyin\CLionProjects\aSmallRender" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\lingyin\graphics\aSmallRender" />
+      <recent name="C:\Users\Lingyin\CLionProjects\aSmallRender" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aSmallRender" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aSmallRender" TARGET_NAME="aSmallRender" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aSmallRender" RUN_TARGET_NAME="aSmallRender">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93c0667e-f87f-456f-a3c7-bd0df0c5985a" name="Changes" comment="" />
+      <created>1712307613036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712307613036</updated>
+      <workItem from="1712307614618" duration="879000" />
+      <workItem from="1712309474861" duration="355000" />
+      <workItem from="1712311397717" duration="6480000" />
+      <workItem from="1712370718541" duration="36906000" />
+      <workItem from="1712455013037" duration="27102000" />
+      <workItem from="1712552776751" duration="1733000" />
+      <workItem from="1712572419170" duration="10912000" />
+      <workItem from="1712627538325" duration="7696000" />
+      <workItem from="1712641027451" duration="1218000" />
+      <workItem from="1712720321114" duration="18380000" />
+      <workItem from="1712754350995" duration="316000" />
+      <workItem from="1712754698846" duration="3656000" />
+      <workItem from="1712800588810" duration="43497000" />
+      <workItem from="1712923027999" duration="3803000" />
+      <workItem from="1712983305495" duration="1811000" />
+      <workItem from="1713009464136" duration="23963000" />
+      <workItem from="1713273993829" duration="1336000" />
+      <workItem from="1713418185511" duration="26070000" />
+      <workItem from="1713515325578" duration="1828000" />
+      <workItem from="1714010993135" duration="1624000" />
+      <workItem from="1714013055365" duration="14000" />
+      <workItem from="1714014973649" duration="4990000" />
+      <workItem from="1714022546115" duration="2603000" />
+      <workItem from="1714185158247" duration="1194000" />
+      <workItem from="1714188434732" duration="461000" />
+      <workItem from="1714189204345" duration="11000" />
+      <workItem from="1714189518680" duration="4247000" />
+      <workItem from="1714194075137" duration="44611000" />
+      <workItem from="1714364701432" duration="3288000" />
+      <workItem from="1714455693952" duration="3147000" />
+      <workItem from="1715172281355" duration="46000" />
+      <workItem from="1715241400269" duration="3813000" />
+      <workItem from="1715246433537" duration="1470000" />
+      <workItem from="1715742286359" duration="2424000" />
+      <workItem from="1715826535017" duration="457000" />
+      <workItem from="1716293670206" duration="5849000" />
+      <workItem from="1717568919945" duration="11659000" />
+      <workItem from="1717635713515" duration="4505000" />
+      <workItem from="1717649200571" duration="21565000" />
+      <workItem from="1717723683586" duration="21222000" />
+      <workItem from="1717808960385" duration="22199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Shader/LoopSubdivision.cpp</url>
+          <line>123</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Shader/LoopSubdivision.cpp</url>
+          <line>64</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Render.cpp</url>
+          <line>15</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Render.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Scene.cpp</url>
+          <line>285</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Scene.cpp</url>
+          <line>307</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Scene.cpp</url>
+          <line>312</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Mesh.cpp</url>
+          <line>77</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Scene.cpp</url>
+          <line>331</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Shader/PcfShader.cpp</url>
+          <line>58</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="std::cout" language="ObjectiveC" />
+        <watch expression="render.Things[0].mesh.vertexSpace[3]" />
+        <watch expression="triangles[0]._M_elems[0].spaceV" />
+        <watch expression="triangles[0]._M_elems[0].spaceV" />
+        <watch expression="triangles[1]" />
+        <watch expression="disToLight2*(1.f+myEps)" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
