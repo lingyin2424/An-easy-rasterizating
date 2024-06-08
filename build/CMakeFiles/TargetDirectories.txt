@@ -1,0 +1,3 @@
+/home/lingyin/graphics/aSmallRender/build/CMakeFiles/aSmallRender.dir
+/home/lingyin/graphics/aSmallRender/build/CMakeFiles/edit_cache.dir
+/home/lingyin/graphics/aSmallRender/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/lingyin/graphics/aSmallRender/cmake-build-debug/CMakeFiles/aSmallRender.dir
+/home/lingyin/graphics/aSmallRender/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lingyin/graphics/aSmallRender/cmake-build-debug/CMakeFiles/rebuild_cache.dir

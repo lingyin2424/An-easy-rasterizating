@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/bin/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++"
+        }
+    ],
+    "version": 4
+}

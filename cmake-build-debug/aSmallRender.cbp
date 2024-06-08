@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="aSmallRender"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/lingyin/graphics/aSmallRender/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aSmallRender">
+				<Option output="/home/lingyin/graphics/aSmallRender/cmake-build-debug/aSmallRender" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lingyin/graphics/aSmallRender/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 aSmallRender"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aSmallRender/fast">
+				<Option output="/home/lingyin/graphics/aSmallRender/cmake-build-debug/aSmallRender" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lingyin/graphics/aSmallRender/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 aSmallRender/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/lingyin/graphics/aSmallRender/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/lingyin/graphics/aSmallRender/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/lingyin/graphics/aSmallRender/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Array2D.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Array2D.h">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Camera.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Camera.h">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Face.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Face.h">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Material.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Material.h">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Mesh.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Mesh.h">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Render.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Render.h">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Scene.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Scene.h">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Shader/DefaultShader.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Shader/LoopSubdivision.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Shader/PBRShader.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Shader/PcfShader.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Shader/PcssShader.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Shader/PhongShader.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Shader/ShadowMapShader.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Shader/ShadowPbrShader.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Shader/SimpleMesh.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Shader/VertexDecimation.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Shader/VssmShader.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Texture.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Texture.h">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Thing.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Thing.h">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Translate.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/Translate.h">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/main.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/math/Mat.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/math/Mat.h">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/math/Vec.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/math/Vec.h">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/tgaimage.cpp">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/tgaimage.h">
+			<Option target="aSmallRender"/>
+		</Unit>
+		<Unit filename="/home/lingyin/graphics/aSmallRender/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
