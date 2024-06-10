@@ -60,14 +60,14 @@ int main([[maybe_unused]] int argc, [[maybe_unused]] char** argv) {
 //    model1.mesh.loadOBJ(R"(C:\Users\Lingyin\CLionProjects\aSmallRender\obj)", "floor");
 
     Thing model1;
-    model1.load(R"(./obj)", "floor");
+    model1.load(R"(../obj)", "floor");
     model1.translate.position = Vec4(0, 1, 0, 1);
     model1.translate.aim = Vec4(0, 1, -1, 1);
     model1.translate.raito = 5;
     model1.floor = true;
 
     Thing model2;
-    model2.load(R"(./obj)", "202");
+    model2.load(R"(../obj)", "202");
     model2.translate.position = Vec4(0, -4, 0, 1);
     model2.translate.aim = Vec4(0, -4, -1, 1);
     model2.translate.raito = 1;
